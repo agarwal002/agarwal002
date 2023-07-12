@@ -4,7 +4,7 @@
 
 ## I'm a Student and Developer:
 
-- 🔭 I’m currently working on MERN Stack 
+- 🔭 I’m currently working on Full Stack Developing
 - ✍🏻 Love Competitive Coding
 - 🌱 I’m Final Year Undergrad student
 - 👯 I’m looking for future collaborations
@@ -16,65 +16,26 @@
 ---
 
 <p align="center">
-  <a href="mailto:sanskar0703@gmail.com">
+  <a href="mailto:ani002agarwal@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
-	<a href="https://www.linkedin.com/in/sanskar-srivastava-0319b3194/">
+	<a href="https://www.linkedin.com/in/ankit-garg-754566225/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://www.instagram.com/its.sanskar.sri/">
+	<a href="https://www.instagram.com/ani002agarwal/">
 		<img src="https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=instagram&colorB=white" />
 	</a>
-   <a href="https://sanskar-sri.onrender.com/">
-		<img src="https://img.shields.io/badge/portfolio-430098?style=for-the-badge&logo=About.me&logoColor=white" />
-	</a>
-	<a href="https://www.codechef.com/users/ssri0703">
-		<img src="https://img.shields.io/badge/Codechef-FFD43B?style=for-the-badge&logo=codechef&logoColor=306998" />
-	</a>
-	<a href="https://codeforces.com/profile/sanskarsri">
-		<img src="https://img.shields.io/badge/CodeForces-00C7B7?style=for-the-badge&logo=codeforces&logoColor=white" />
-	</a>
-	<a href="https://leetcode.com/SSRI0703/">
+   
+	<a href="https://leetcode.com/ani002agarwal/">
 		<img src="https://img.shields.io/badge/LeetCode-323330?style=for-the-badge&logo=leetcode&logoColor=F7DF1E" />
 	</a>
   
-<!-- 	<a href="https://twitter.com/">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a> -->
-   <a href="https://auth.geeksforgeeks.org/user/sanskar0703/practice">
+   <a href="https://auth.geeksforgeeks.org/user/ani002agarwal">
 		<img src="https://img.shields.io/badge/GFG-1AA260?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 	</a>
-</p>
 
----
 
-```javascript
-const Sanskarsri = {
-  skills: ["Full stack developer", "Competitve Coder"],
-  improving: "true",
-  programming: {
-    languages: [
-      "Javascript",
-      "PHP",
-      "C",
-      "C++",
-      "Python",
-      "CSS"
-    ],
-    frameWorks: [
-      "ReactJs",
-      "BootStrap",
-      "ExpressJS",
-      "NodeJS",
-      "Flask"
-    ],
-    databases: ["MySQL", "Mongo DB"],
-    tools: ["VSCode","Sublime", "AWS", "Heroku", "Firebase", "XAMPP"],
-  },
-};
-```
 
-<br />
 
 ## ⚡ Tech Stack
 
@@ -86,7 +47,6 @@ const Sanskarsri = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-430098?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/mysql-323330?style=for-the-badge&logo=mysql&logoColor=F7DF1E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=MongoDB&logoColor=white)
 
@@ -97,9 +57,7 @@ const Sanskarsri = {
 ![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/Express.js-FFD43B?style=for-the-badge&logo=express&logoColor=306998)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=61DAFB)
+
 
 ### 🧑🏻‍💻 Tools & Platform
 
@@ -123,12 +81,8 @@ const Sanskarsri = {
 
 <br />
 
-## My Portfolio
 
-<!-- #### https://sanskar-sri.onrender.com/ -->
-![Image](https://github.com/sanskarsri/sanskarsri/blob/main/portfolio.PNG)
 
-<br />
 
 ## 📈 Stats
 
@@ -138,7 +92,7 @@ const Sanskarsri = {
 </div> -->
 <div style="display:flex,justify-content:space-around width:100%">
   <img style="width:48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarsri&show_icons=true&hide_border=true&theme=dark" alt="Sanskar's Github Stats" />
-  <img style="width:48%" alt="Sanskarsri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskarsri&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+  <img style="width:48%" alt="Ankit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskarsri&count_private=true&show_icons=true&hide_border=true&theme=dark" />
 </div>
 
 <br />
