@@ -25,8 +25,7 @@
 	<a href="https://www.instagram.com/ani002agarwal/">
 		<img src="https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=instagram&colorB=white" />
 	</a>
-   
-	<a href="https://leetcode.com/ani002agarwal/">
+   <a href="https://leetcode.com/ani002agarwal/">
 		<img src="https://img.shields.io/badge/LeetCode-323330?style=for-the-badge&logo=leetcode&logoColor=F7DF1E" />
 	</a>
   
